@@ -1,6 +1,6 @@
 # Generieke beschrijving architectuur ZDS en SIA platform
 
-###1.1	Overall user story
+## 1.1	Overall user story
 
 Als burger van Amsterdam wil ik meldingen doen van geconstateerde overlast, defecten, en andere afwijkingen van de gewenste situatie in de openbare ruimte.
 

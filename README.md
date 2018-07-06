@@ -62,7 +62,7 @@ en
  
 >Fig.4, GEMMA Mapping
 
-[]hier
+- [] hier
 
 |GEMMA comp.      |  J/N  | Verklaring                                        |  Akkoord  |
 |:----------------|:-----:|:-------------------------------------------------|:---------:|

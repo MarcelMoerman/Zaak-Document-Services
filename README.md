@@ -64,13 +64,13 @@ en
 
 |GEMMA comp.      |  J/N  | Verklaring                                        |  Akkoord  |
 |:----------------|:-----:|:-------------------------------------------------|:---------:|
-|E-Formulieren   |Ja|Het SIA platform voorziet in een formulieren omgeving voor invoer meldingen. | - [ ] |
+|E-Formulieren   |Ja|Het SIA platform voorziet in een formulieren omgeving voor invoer meldingen. | |
 |Servicebus    |Nee|Het SIA platform gebruikt de API’s van het Datapunt platform dit is geen "servicebus" maar een API platform.|[x]|
-|ZRC	        |Ja|De meldingen worden zo snel mogelijk geregistreerd als Zaak om daarna te worden doorgezet naar de behandelaar, updates worden via de ZRC teruggekoppeld.     |[x]|
-|ZTC          |Ja|De ZTC wordt geraadpleegd in een aantal van de processtapen van de afhnadeling van een melding. |[x]|
-|ZDC| Nee|Er wordt (nog) geen ZDC gebruikt voor documenten, bijgeovoegde foto’s van een medling worden als object_data opgeslagen binnen het SIA platform.|[x]|
-|Zaak afhandeling|Ja|De zaakafhandel component bestaat uit de taakapplicatie van de behandelaar.|[x]|
-|Zaak coördinatie|Ja|Er wordt voor meldingen OR een specifieke coordinatie compnent ontwikkeld, doorontwikkeling naar een generieke component is nog niet besloten.|[x]|
+|ZRC	        |Ja|De meldingen worden zo snel mogelijk geregistreerd als Zaak om daarna te worden doorgezet naar de behandelaar, updates worden via de ZRC teruggekoppeld.     | |
+|ZTC          |Ja|De ZTC wordt geraadpleegd in een aantal van de processtapen van de afhnadeling van een melding. | |
+|ZDC| Nee|Er wordt (nog) geen ZDC gebruikt voor documenten, bijgeovoegde foto’s van een medling worden als object_data opgeslagen binnen het SIA platform.| |
+|Zaak afhandeling|Ja|De zaakafhandel component bestaat uit de taakapplicatie van de behandelaar.| |
+|Zaak coördinatie|Ja|Er wordt voor meldingen OR een specifieke coordinatie compnent ontwikkeld, doorontwikkeling naar een generieke component is nog niet besloten.| |
 
 ## 1.6	Benodigde API’s in user story
 Voor de realisatie van het SIA platform worden alle ZDS API’s gebruikt in logische volgorde worden de volgende API’s gebruikt:  

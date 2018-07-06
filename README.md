@@ -64,7 +64,7 @@ en
 
 |GEMMA comp.      |  J/N  | Verklaring                                        |  Akkoord  |
 |:----------------|:-----:|:-------------------------------------------------|:---------:|
-|E-Formulieren   |Ja|Het SIA platform voorziet in een formulieren omgeving voor invoer meldingen. |[x]|
+|E-Formulieren   |Ja|Het SIA platform voorziet in een formulieren omgeving voor invoer meldingen. |[]|
 |Servicebus    |Nee|Het SIA platform gebruikt de API’s van het Datapunt platform dit is geen "servicebus" maar een API platform.|[x]|
 |ZRC	        |Ja|De meldingen worden zo snel mogelijk geregistreerd als Zaak om daarna te worden doorgezet naar de behandelaar, updates worden via de ZRC teruggekoppeld.     |[x]|
 |ZTC          |Ja|De ZTC wordt geraadpleegd in een aantal van de processtapen van de afhnadeling van een melding. |[x]|

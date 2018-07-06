@@ -72,26 +72,26 @@ en
 |Zaak afhandeling|Ja|De zaakafhandel component bestaat uit de taakapplicatie van de behandelaar.|[x]|
 |Zaak coördinatie|Ja|Er wordt voor meldingen OR een specifieke coordinatie compnent ontwikkeld, doorontwikkeling naar een generieke component is nog niet besloten.|[x]|
 
-##1.6	Benodigde API’s in user story
+## 1.6	Benodigde API’s in user story
 Voor de realisatie van het SIA platform worden alle ZDS API’s gebruikt in logische volgorde worden de volgende API’s gebruikt:  
-####1.6.1.	ZTC API
+#### 1.6.1.	ZTC API
 * Categoriseren van een melding OR, categorisering gebeurd in eerste instatie op basis van processing van de ingevoerde tekst en gegevens van de melding.  
 * Routering van de meldingen op basis van de informatie over zaak_type en proces_eigenaar.  
 * Anonieme terugkoppeling over verwachte afhendeltermijn door de proces_eigenaar.  
 
-####1.6.2.	ZRC API
+#### 1.6.2.	ZRC API
 * Registratie van de meldingen als zaak.  
 * Bewaking van de behandelingstermijn van de melding.  
 * Registreren van status_updates door proces_eigenaar.  
 * Anonieme terugkoppeling over meldingen.  
 
-####1.6.3.	ZDC API
+#### 1.6.3.	ZDC API
 De ZDC wordt vooralsnog niet gebruikt voor afhandelingen OR, bijgevoegde foto’s worden nu als object_data met een URL en zaak_ID opgeslagen binnen het SIA platform.   
 
-##1.7	Eventuele onderliggende architectuurvragen
+## 1.7	Eventuele onderliggende architectuurvragen
 
-####1.7.1.	Architectuurvragen voor deze User Story
+#### 1.7.1.	Architectuurvragen voor deze User Story
 * Extensie op Zaaktype en Zaakregistratie voor taakspecifieke informatieoverdracht.  
 
-####1.7.2.	GEMMA-onduidelijkheiden of afwijkingen
+#### 1.7.2.	GEMMA-onduidelijkheiden of afwijkingen
 * Afwijking op patroon registratie in Taakapplicatie voor registratie in ZRC door directe registratie in ZRC.

@@ -25,6 +25,7 @@ Onderstaande figuur toont het proces waar deze user story deel van uitmaakt: Beh
 * Akkoord verklaring door melder.
 
 >fig 1, Afbeelding Proces
+![fig 1](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_1_Overview_proc_sys_signalen.png)
 
 ## 1.4	Architectuurschets User Story
 

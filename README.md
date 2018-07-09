@@ -41,7 +41,7 @@ Terugkoppeling op de afhandeling van de meldingen en bijv. statusupdates worden 
 
 Voor afhandeling door afdelingen zonder taak-applicatie is er een eenvoudige interface voor status updates in het SIA platform aanwezig.
 
->fig.2, Afbeelding Archimate proces en systemen
+>fig.2, Afbeelding proces en systemen
 ![fig.2](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_1_Overview_proc_sys_signalen.png)
 
 #### 1.4.1.	 Uitbreiding ZDS met taakspecifieke gegevens

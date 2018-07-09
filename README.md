@@ -4,7 +4,7 @@
 
 Als burger van Amsterdam wil ik meldingen doen van geconstateerde overlast, defecten, en andere afwijkingen van de gewenste situatie in de openbare ruimte.
 
-Zie <https://github.com/VNG-Realisatie/gemma-zaken/issues/39>
+Zie voor de referentie **[hier](<https://github.com/VNG-Realisatie/gemma-zaken/issues/39>)
 
 ## 1.2	Toelichting op generieke userstory 
 
@@ -58,10 +58,7 @@ De extensie beschrijft de opbouw van de “Taakspecifieke_Data” die meegegeven
 
 ## 1.5	Generieke architectuurschets (GEMMA-referentiecomponenten)
 
-Deze user story volgt 2 GEMMA patronen voor Zaakgericht werken:
-<https://www.gemmaonline.nl/index.php/ZGW_in_GEMMA_2_compleet#Indienen_productaanvraag_via_webformulier>  
-en  
-<https://www.gemmaonline.nl/index.php/ZGW_in_GEMMA_2_compleet#Registreren_zaak_vanuit_Zaakafhandelcomponent>
+Deze user story volgt 2 GEMMA patronen voor Zaakgericht werken zoals beschreven **[hier](<https://www.gemmaonline.nl/index.php/ZGW_in_GEMMA_2_compleet#Indienen_productaanvraag_via_webformulier>)** en **[hier](<https://www.gemmaonline.nl/index.php/ZGW_in_GEMMA_2_compleet#Registreren_zaak_vanuit_Zaakafhandelcomponent>)**
  
 >Fig.4, GEMMA Mapping
 ![fig.1](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_3_GEMMA_Mapping.png)

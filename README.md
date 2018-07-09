@@ -4,7 +4,7 @@
 
 Als burger van Amsterdam wil ik meldingen doen van geconstateerde overlast, defecten, en andere afwijkingen van de gewenste situatie in de openbare ruimte.
 
-Zie voor de referentie **[hier](<https://github.com/VNG-Realisatie/gemma-zaken/issues/39>)
+Zie voor de referentie **[hier](<https://github.com/VNG-Realisatie/gemma-zaken/issues/39>)**
 
 ## 1.2	Toelichting op generieke userstory 
 

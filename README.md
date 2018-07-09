@@ -54,7 +54,7 @@ Om deze gegevens wel mee te kunnen geven aan de behandelaar van de zaaktypen wor
 De extensie beschrijft de opbouw van de “Taakspecifieke_Data” die meegegeven kan worden aan de behandelaar van het zaak_type.
 
 >fig.3, Afbeelding systeem en gegevens
-![fig.3](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_2_0_Overview_proc_sys_signalen.png)  
+![fig.3](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_2_0_Overview_proc_sys_obj_signalen.png)  
 
 ##1.5	Generieke architectuurschets (GEMMA-referentiecomponenten)
 

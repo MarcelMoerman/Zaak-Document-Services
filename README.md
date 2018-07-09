@@ -63,8 +63,8 @@ Deze user story volgt 2 GEMMA patronen voor Zaakgericht werken zoals beschreven 
 >Fig.4, GEMMA Mapping
 ![fig.1](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_3_GEMMA_Mapping.png)
 
-|GEMMA comp.      |  J/N  | Verklaring                                        | Akkoord |
-|:----------------|:-----:|:-------------------------------------------------|:------:|
+|GEMMA comp.       |  J/N  | Verklaring                                        | Akkoord |
+|:-----------------|:-----:|:-------------------------------------------------|:------:|
 |E-Formulieren   |Ja|Het SIA platform voorziet in een formulieren omgeving voor invoer meldingen. | |
 |Servicebus    |Nee|Het SIA platform gebruikt de API’s van het Datapunt platform dit is geen "servicebus" maar een API platform.| |
 |ZRC	        |Ja|De meldingen worden zo snel mogelijk geregistreerd als Zaak om daarna te worden doorgezet naar de behandelaar, updates worden via de ZRC teruggekoppeld.     | |

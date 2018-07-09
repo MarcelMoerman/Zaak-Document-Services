@@ -24,9 +24,8 @@ Onderstaande figuur toont het proces waar deze user story deel van uitmaakt: Beh
 * Afsluiting door proceseigenaar en ASC.
 * Akkoord verklaring door melder.
 
-![fig 1](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/Procesflow.png)  
 >fig 1, Afbeelding Proces
-
+![fig 1](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/Procesflow.png)
 
 ## 1.4	Architectuurschets User Story
 
@@ -42,8 +41,8 @@ Terugkoppeling op de afhandeling van de meldingen en bijv. statusupdates worden 
 
 Voor afhandeling door afdelingen zonder taak-applicatie is er een eenvoudige interface voor status updates in het SIA platform aanwezig.
 
-![fig.2](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_1_Overview_proc_sys_signalen.png)
 >fig.2, Afbeelding Archimate proces en systemen
+![fig.2](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_1_Overview_proc_sys_signalen.png)
 
 #### 1.4.1.	 Uitbreiding ZDS met taakspecifieke gegevens
 
@@ -54,8 +53,8 @@ Om deze gegevens wel mee te kunnen geven aan de behandelaar van de zaaktypen wor
 
 De extensie beschrijft de opbouw van de “Taakspecifieke_Data” die meegegeven kan worden aan de behandelaar van het zaak_type.
 
-![fig.3](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_2_Overview_proc_sys_signalen.png)
 >fig.3, Afbeelding systeem en gegevens
+![fig.3](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_2_0_Overview_proc_sys_signalen.png)  
 
 ##1.5	Generieke architectuurschets (GEMMA-referentiecomponenten)
 
@@ -64,8 +63,8 @@ Deze user story volgt 2 GEMMA patronen voor Zaakgericht werken:
 en  
 <https://www.gemmaonline.nl/index.php/ZGW_in_GEMMA_2_compleet#Registreren_zaak_vanuit_Zaakafhandelcomponent>
  
-![fig.1](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_3_GEMMA_Mapping.png)
 >Fig.4, GEMMA Mapping
+![fig.1](https://github.com/MarcelMoerman/Zaak-Document-Services/blob/master/docs/1_3_GEMMA_Mapping.png)
 
 |GEMMA comp.      |  J/N  | Verklaring                                        | Akkoord |
 |:----------------|:-----:|:-------------------------------------------------|:------:|
